@@ -1,0 +1,6 @@
+{ "commons-csv" :
+  { "install" : "commons-csv/install.js"
+  , "postinstall" : "commons-csv/install.js"
+  , "uninstall" : "commons-csv/uninstall.js"
+  }
+}
